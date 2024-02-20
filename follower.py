@@ -2,6 +2,7 @@
 from instagram_private_api import Client
 import time
 import random
+#!Frank Mina
 
 # Function to retrieve followers of a specified user
 def get_followers(username, max_count):
